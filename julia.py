@@ -1,0 +1,1 @@
+print("a mariana é chata")
